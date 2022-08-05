@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:P3"
+      name = "P3">
+      <FileRef
+         location = "group:program_06/program_06.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:program_05/program_05.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:program_04/program_04.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:program_03/program_03.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:program_02/program_02.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:program_01/program_01.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:exercise_06/exercise_06.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:exercise_05/exercise_05.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:exercise_04/exercise_04.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:exercise_02/exercise_02.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:P1"
+      name = "P2">
+      <FileRef
+         location = "group:../P2/program_05/program_05.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:../P2/program_07">
+      </FileRef>
+      <FileRef
+         location = "group:../P2/program_06">
+      </FileRef>
+      <FileRef
+         location = "group:../P2/program_04">
+      </FileRef>
+      <FileRef
+         location = "group:../P2/program_03">
+      </FileRef>
+      <FileRef
+         location = "group:../P2/program_02">
+      </FileRef>
+      <FileRef
+         location = "group:../P2/program_01">
+      </FileRef>
+      <FileRef
+         location = "group:../P2/exercise_04">
+      </FileRef>
+      <FileRef
+         location = "group:../P2/exercise_01">
+      </FileRef>
+   </Group>
+</Workspace>
