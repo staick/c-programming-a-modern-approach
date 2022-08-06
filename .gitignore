@@ -55,3 +55,5 @@ dkms.conf
 *.pbxproj
 *.xcbkptlist
 *.xcscheme
+*.xcuserstate
+main
