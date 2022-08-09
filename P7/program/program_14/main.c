@@ -10,7 +10,7 @@ int main() {
     do {
         y = new_y;
         new_y = (y + x / y) / 2.0;
-    } while(fabs(y - new_y) < 0.00001 * y);
+    } while(fabs(y - new_y) > 0.00001 * y);
 
     printf("Square root: %f\n", new_y);
 
